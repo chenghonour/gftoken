@@ -1,4 +1,4 @@
-module github.com/chenghonour/gtoken
+module github.com/chenghonour/gftoken
 
 require github.com/gogf/gf/v2 v2.0.0-beta
 
