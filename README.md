@@ -1,6 +1,5 @@
-# 本项目fork自：
+# 本项目为了兼容goframe2.0，fork自以下项目：
 * github地址：https://github.com/goflyfox/gtoken
-* gitee地址：https://gitee.com/goflyfox/gtoken
 
 # gtoken
 
